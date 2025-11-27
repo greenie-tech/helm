@@ -1,0 +1,9 @@
+How to Create Helm Charts - The Ultimate Guide
+- https://www.youtube.com/watch?v=jUYNS90nq8U
+- https://github.com/devopsjourney1/helm-webapp
+
+Docker container image
+- devopsjourney1/mywebapp
+- https://hub.docker.com/r/devopsjourney1/mywebapp
+
+
